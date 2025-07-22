@@ -10,4 +10,4 @@ Then, explored patterns in the data through correlation heatmaps, group-by summa
 Lastly, I engineered new features like age groups, family size, and extracted date parts and normalized numerical columns and encoded categorical ones to prepare the dataset for machine learning.
 
 #WEEK 3 Progress :
-
+Explored house price data using basic statistics like mean and standard deviation, then tested patterns using t-tests and chi-square tests. After splitting the data, i trained and compared Linear Regression and KNN models. Then evaluated their performance using RMSE, R², and classification metrics like precision, recall, F1, along with confusion matrix and ROC curve. Overall, it covered the complete data science process from understanding to modeling and evaluation.
